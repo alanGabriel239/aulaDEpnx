@@ -1,9 +1,10 @@
-import {View, Stylesheet, Text} from 'react-native';
+import {View, StyleSheet, Text} from 'react-native';
 
 export default function Login(){
     return(
     <View>
         <Text>
+            só Alegria!
             só Alegria!
         </Text>
     </View>
